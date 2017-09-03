@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TallerTres</string>
+    <string name="primero">10.49</string>
+    <string name="day">Sabado</string>
+    <string name="llamada">2</string>
+    <string name="llamadaa">Llamadas</string>
+    <string name="frase">Estado de la bateria.91%</string>
+    <string name="app_name1">4</string>
+    <string name="llamadaaa">Mensajes</string>
+    <string name="llamada15">48</string>
+    <string name="lla">Notificaciones</string>
+    <string name="Enviar">enviar</string>
+    <string name="Salir">Salir</string>
+    <string name="CAMARA">Cámara</string>
+    <string name="nuevo">Nuevo</string>
+</resources>
